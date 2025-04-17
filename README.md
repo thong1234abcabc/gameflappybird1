@@ -21,3 +21,7 @@
 
 - Tên: **CAOSYTHONG**
 - Dự án cá nhân nhằm luyện tập SDL2 và lập trình game với C++.
+  ![start_background](https://github.com/user-attachments/assets/de78ebc3-67ee-4c43-a8d5-01d203f82d40)
+  ![image](https://github.com/user-attachments/assets/f1a6a601-1327-4753-ac9e-4c805a460b5e)
+  ![image](https://github.com/user-attachments/assets/160a8a3d-8459-41fc-a556-647f649dc0c3)
+  ![image](https://github.com/user-attachments/assets/2c918e2a-21b8-47fb-b76a-9ec4ce823c5e)
